@@ -1,0 +1,9 @@
+# Real client config and secrets: commit the .example files only.
+.mcp.json
+.env
+# OAuth token cache, in case GCAL_MCP_TOKEN_PATH is pointed inside the repo.
+token.json
+*.token.json
+.venv/
+.pytest_cache/
+.ruff_cache/

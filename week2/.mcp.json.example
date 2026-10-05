@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "gcal": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--directory", "week2", "gcal-mcp"]
+    }
+  }
+}

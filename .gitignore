@@ -55,3 +55,6 @@ Thumbs.db
 
 # Week 1 mitmproxy capture (never commit)
 *.flows
+
+# Week 2: real MCP client config holds the OAuth client secret
+.mcp.json
